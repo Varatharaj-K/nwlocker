@@ -1,7 +1,7 @@
 # nwlocker
 Near Watch Locker 
 
-site: <a href="https://near.ws">near.ws</a>
+site: <a href="https://near.ws" target="_blank">near.ws</a>
 
 ### Build
 ```
@@ -19,4 +19,4 @@ $ near call account.near init '{\"pairs\":[[\"\",\"\"]]}' --accountId account.ne
 ```
 
 ### Support
-<a href="https://t.me/nearwatch">Near.Watch technical support group (telegram)</a>
+<a href="https://t.me/nearwatch" target="_blank">Near.Watch technical support group (telegram)</a>
